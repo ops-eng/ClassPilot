@@ -2,6 +2,15 @@
 
 Built for clarity and speed, **ClassPilot** helps you plan a semester, manage daily lessons, track grades, and stay on top of deadlines — whether you’re trying the app for free or running a full classroom workflow on Pro.
 
+---
+
+<p align="center">
+  <img src="images/ipad_classpilot_portrait_home.png" alt="ClassPilot" width="65%" />
+</p>
+
+
+---
+
 ### Core capabilities:
 
 	•	Course management: create and organize courses with metadata (term, instructor, color, notes).
@@ -35,6 +44,13 @@ Built for clarity and speed, **ClassPilot** helps you plan a semester, manage da
 	•	Overlap resolution and columned event layout for readable schedules.
 	•	Batched updates and efficient rendering to avoid visual artifacts and ghosting in timeline views.
 	•	Test cases and diagnostics built into the app to reproduce and fix layout issues quickly.
+---
+
+<p align="center">
+  <img src="images/iPad_classpilot_1W.png" alt="ClassPilot" width="75%" />
+</p>
+
+---
 
 ### * Free vs Pro — Feature comparison
 
